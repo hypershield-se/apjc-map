@@ -8,7 +8,7 @@
 
 body {
     overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-y: auto; /* Changed from hidden to auto to enable vertical scrolling */
     background-color: rgb(230, 242, 248);
 }
 
